@@ -1,0 +1,27 @@
+C:\Users\haris\source\repos\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).exe.config
+C:\Users\haris\source\repos\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).exe
+C:\Users\haris\source\repos\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).pdb
+C:\Users\haris\source\repos\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).exe
+C:\Users\haris\source\repos\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).pdb
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).exe.config
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).exe
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).pdb
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Student.dll
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Student.pdb
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.CopyComplete
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).exe
+C:\Users\haris\Desktop\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).pdb
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).exe.config
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).exe
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Predavanje 1 Denis (05.10.2021.).pdb
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Student.dll
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\bin\Debug\Student.pdb
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).csproj.CopyComplete
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).exe
+C:\Users\haris\Desktop\PR-III\Predavanje1\Predavanje 1 Denis (05.10.2021.)\obj\Debug\Predavanje 1 Denis (05.10.2021.).pdb

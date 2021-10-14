@@ -1,0 +1,12 @@
+C:\Users\haris\Desktop\Predavanje1\Student\bin\Debug\Student.dll
+C:\Users\haris\Desktop\Predavanje1\Student\bin\Debug\Student.pdb
+C:\Users\haris\Desktop\Predavanje1\Student\obj\Debug\Predavanje 1 Denis (05.10.2021.).Data.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje1\Student\obj\Debug\Predavanje 1 Denis (05.10.2021.).Data.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje1\Student\obj\Debug\Student.dll
+C:\Users\haris\Desktop\Predavanje1\Student\obj\Debug\Student.pdb
+C:\Users\haris\Desktop\PR-III\Predavanje1\Student\bin\Debug\Student.dll
+C:\Users\haris\Desktop\PR-III\Predavanje1\Student\bin\Debug\Student.pdb
+C:\Users\haris\Desktop\PR-III\Predavanje1\Student\obj\Debug\Predavanje 1 Denis (05.10.2021.).Data.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\PR-III\Predavanje1\Student\obj\Debug\Predavanje 1 Denis (05.10.2021.).Data.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\PR-III\Predavanje1\Student\obj\Debug\Student.dll
+C:\Users\haris\Desktop\PR-III\Predavanje1\Student\obj\Debug\Student.pdb

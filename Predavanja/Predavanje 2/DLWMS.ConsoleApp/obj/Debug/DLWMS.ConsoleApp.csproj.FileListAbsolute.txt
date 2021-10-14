@@ -1,0 +1,7 @@
+C:\Users\haris\Desktop\DLWMS (Predavanje 2 12.10.2021.)\DLWMS.ConsoleApp\bin\Debug\DLWMS.ConsoleApp.exe.config
+C:\Users\haris\Desktop\DLWMS (Predavanje 2 12.10.2021.)\DLWMS.ConsoleApp\bin\Debug\DLWMS.ConsoleApp.exe
+C:\Users\haris\Desktop\DLWMS (Predavanje 2 12.10.2021.)\DLWMS.ConsoleApp\bin\Debug\DLWMS.ConsoleApp.pdb
+C:\Users\haris\Desktop\DLWMS (Predavanje 2 12.10.2021.)\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\DLWMS (Predavanje 2 12.10.2021.)\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\DLWMS (Predavanje 2 12.10.2021.)\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.exe
+C:\Users\haris\Desktop\DLWMS (Predavanje 2 12.10.2021.)\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.pdb
