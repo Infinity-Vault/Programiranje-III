@@ -21,4 +21,5 @@
 
 [Predavanje 2 (12.10.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%202)
 
+
 <hr>
