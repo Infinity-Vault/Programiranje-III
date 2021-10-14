@@ -12,6 +12,8 @@ namespace DLWMS.ConsoleApp.Predavanja.P2
        // public Asistent(int godiste)
        // {
        //     //Strukture ne mogu imati ctor bez parametara;
+              //Zato sto su strukture 'value'  tip podatka, stoga ne moze se konstruisati bez nekih parametara proslijedjenih (tj. bez vrijednosti), 
+              //odnosno jednostavnije receno, ne moze se desiti da je 'value' tip null;
        //     Godiste = godiste;
        //     ImePrezime="NOT_SET";
        // }
