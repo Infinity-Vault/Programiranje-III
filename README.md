@@ -31,6 +31,8 @@
 
 [Primjer Garbage kolektora u C#](https://github.com/Infinity-Vault/Programiranje-III/blob/main/Vjezbe/Primjer%20Garbage%20kolektora.png)
 
-[Vjezbe Muhammed El-Zayat (14.10.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Vjezbe%201%20(14.10.2021.))
+[Vjezbe Muhamed El-Zayat (14.10.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Vjezbe%201%20(14.10.2021.))
 
+
+[Odgovor na inheritance pitanje profesora Muhameda (14.10.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Odgovor%20na%20inheritance%20pitanje%20od%20profesora%20Muhameda%20(14.10.2021.))
 <hr>
