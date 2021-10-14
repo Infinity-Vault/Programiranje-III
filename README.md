@@ -29,6 +29,8 @@
 
 [Primjer alociranja memorije na HEAP vs na STACK](https://github.com/Infinity-Vault/Programiranje-III/blob/main/Vjezbe/Primjer%20alociranja%20na%20HEAP%20i%20na%20STACK.png)
 
+[Primjer Garbage kolektora u C#](https://github.com/Infinity-Vault/Programiranje-III/blob/main/Vjezbe/Primjer%20Garbage%20kolektora.png)
+
 [Vjezbe Muhammed El-Zayat (14.10.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Vjezbe%201%20(14.10.2021.))
 
 <hr>
