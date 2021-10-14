@@ -1,0 +1,7 @@
+C:\Users\haris\source\repos\Vjezbe 1\Vjezbe 1 (14.10.2021.)\bin\Debug\Vjezbe 1 (14.10.2021.).exe.config
+C:\Users\haris\source\repos\Vjezbe 1\Vjezbe 1 (14.10.2021.)\bin\Debug\Vjezbe 1 (14.10.2021.).exe
+C:\Users\haris\source\repos\Vjezbe 1\Vjezbe 1 (14.10.2021.)\bin\Debug\Vjezbe 1 (14.10.2021.).pdb
+C:\Users\haris\source\repos\Vjezbe 1\Vjezbe 1 (14.10.2021.)\obj\Debug\Vjezbe 1 (14.10.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\Vjezbe 1\Vjezbe 1 (14.10.2021.)\obj\Debug\Vjezbe 1 (14.10.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Vjezbe 1\Vjezbe 1 (14.10.2021.)\obj\Debug\Vjezbe 1 (14.10.2021.).exe
+C:\Users\haris\source\repos\Vjezbe 1\Vjezbe 1 (14.10.2021.)\obj\Debug\Vjezbe 1 (14.10.2021.).pdb
