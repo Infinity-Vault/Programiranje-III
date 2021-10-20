@@ -1,0 +1,7 @@
+C:\Users\haris\Desktop\DLWMS\DLWMS Predavanje 3 (19.10.2021.)\bin\Debug\DLWMS Predavanje 3 (19.10.2021.).exe.config
+C:\Users\haris\Desktop\DLWMS\DLWMS Predavanje 3 (19.10.2021.)\bin\Debug\DLWMS Predavanje 3 (19.10.2021.).exe
+C:\Users\haris\Desktop\DLWMS\DLWMS Predavanje 3 (19.10.2021.)\bin\Debug\DLWMS Predavanje 3 (19.10.2021.).pdb
+C:\Users\haris\Desktop\DLWMS\DLWMS Predavanje 3 (19.10.2021.)\obj\Debug\DLWMS Predavanje 3 (19.10.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\DLWMS\DLWMS Predavanje 3 (19.10.2021.)\obj\Debug\DLWMS Predavanje 3 (19.10.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\DLWMS\DLWMS Predavanje 3 (19.10.2021.)\obj\Debug\DLWMS Predavanje 3 (19.10.2021.).exe
+C:\Users\haris\Desktop\DLWMS\DLWMS Predavanje 3 (19.10.2021.)\obj\Debug\DLWMS Predavanje 3 (19.10.2021.).pdb

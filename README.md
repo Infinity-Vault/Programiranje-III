@@ -17,10 +17,11 @@
 
 **Predavanja:**
 
-[Predavanje 1 (05.10.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje1)
+[Predavanje 1 (05.10.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%201)
 
 [Predavanje 2 (12.10.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%202)
 
+[Predavanje 3 (19.10.2021.) Denis Music]()
 
 
 

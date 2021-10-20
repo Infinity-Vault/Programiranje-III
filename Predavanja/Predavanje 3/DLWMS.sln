@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLWMS Predavanje 3 (19.10.2021.)", "DLWMS Predavanje 3 (19.10.2021.)\DLWMS Predavanje 3 (19.10.2021.).csproj", "{09722DAC-C432-47CC-9F43-2845AFAE8772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09722DAC-C432-47CC-9F43-2845AFAE8772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09722DAC-C432-47CC-9F43-2845AFAE8772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09722DAC-C432-47CC-9F43-2845AFAE8772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09722DAC-C432-47CC-9F43-2845AFAE8772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB6E09E-EE65-423D-A996-9009BD2187F3}
+	EndGlobalSection
+EndGlobal
