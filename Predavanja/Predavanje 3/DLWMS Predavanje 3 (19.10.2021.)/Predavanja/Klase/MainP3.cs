@@ -32,7 +32,8 @@ namespace DLWMS_Predavanje_3__19._10._2021._.Predavanja.Klase
             Poruke poruka = new Poruke();//Dflt ctor;
             Console.WriteLine(poruka.Recenica);//Ispise se vrijednost read only propertija;
             //poruka.Recenica = "Promjenjena recenica";//Dobijemo gresku da je ovaj property readonly field;
-            //poruka.Konstanta;//Moze se pristupiti ali ne i mijenjati;
+            //poruka.Konstanta;//Dobijemo gresku jer je ovaj field (atribut) const, a samim time je static po defaultu, stoga ne mozemo preko neke instance pristupiti njemu;
+            //Poruke.Konstanta;//Ovo moze jer nije instanca;
             Console.WriteLine($"------------------------------------KRAJ-------------------------------------");
         }
 
