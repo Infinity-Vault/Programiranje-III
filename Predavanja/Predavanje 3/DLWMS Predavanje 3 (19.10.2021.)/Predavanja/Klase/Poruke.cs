@@ -10,7 +10,7 @@ namespace DLWMS_Predavanje_3__19._10._2021._.Predavanja.Klase
     {
         //Kljucna rijec const od nas odmah zahtijeva da inicijaliziramo taj atribut,
         //te isto tako nakon sto je inicijaliziran, vise se ne moze mijenjati;
-        //Takodjer const property su vec po prirodi staticki, stoga ne mora postojati instanca ovog objekta da  bi koristili njegov neki const property;
+        //Takodjer const atribut su vec po prirodi staticki, stoga ne mora postojati instanca ovog objekta da  bi koristili njegov neki const atribut;
         public const string Konstanta = "Ovo je konstanta !";
 
         //Dok sa druge strane, kljucna rijec readonly nam omogucava da proglaseni atribut,
