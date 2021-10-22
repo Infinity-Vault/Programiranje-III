@@ -12,7 +12,7 @@
 
 [Snimljena predavanja (Denis Musić) NPP::2021/22](https://www.youtube.com/watch?v=HbkETQVcAEc&list=PL2dH2rssdMKqx2H9UBei4z6o89KFtl8OL)
 
-[Official Microsoft .NET Guide]()
+[Official Microsoft .NET Guide](https://github.com/Infinity-Vault/Programiranje-III/raw/main/Materijali/.NET%20Guide.pdf)
 
 
 <br>
