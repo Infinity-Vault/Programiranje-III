@@ -15,7 +15,7 @@
 
 [Official Microsoft .NET Guide](https://github.com/Infinity-Vault/Programiranje-III/raw/main/Materijali/.NET%20Guide.pdf)
 
-[CLR via C# 4th edition]()
+[CLR via C# 4th edition](https://github.com/Infinity-Vault/Programiranje-III/raw/main/Materijali/CLR%20Via%20Csharp%204th%20Edition.pdf)
 
 <br>
 
