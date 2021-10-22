@@ -6,6 +6,7 @@
 
 <hr>
 
+**Materijali:**
 
 [Snimljena predavanja (Denis Musić) NPP::2020/21](https://www.youtube.com/watch?v=tnpxdGQKKF0&list=PLJCjqoTZy0H-ELJL4GxKjSKCy8cp2xNNh)
 
@@ -14,6 +15,7 @@
 
 [Official Microsoft .NET Guide](https://github.com/Infinity-Vault/Programiranje-III/raw/main/Materijali/.NET%20Guide.pdf)
 
+[CLR via C# 4th edition]()
 
 <br>
 
