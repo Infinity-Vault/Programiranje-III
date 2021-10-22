@@ -44,7 +44,7 @@ namespace Vjezbe_2.Primjer1
            if(planeta.Alive())//Obicna metoda koju smo naslijedili iz bazne klase Planeta;
                Console.WriteLine($"Planeta {planeta.Name} je ziva !");
 
-           planeta.PopulatePlanets(new Tree[100]);//Abstract metoda iz base class;
+           planeta.PopulatePlanets(new Tree[100]);//Abstract metoda iz base class,override-ana;
            planeta.Mass = 28.2154846d;
            planeta.Info();
        }
