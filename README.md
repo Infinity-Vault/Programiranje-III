@@ -27,6 +27,7 @@
 
 [Predavanje 3 (19.10.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%203)
 
+[Predavanje 4 (26.10.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%204)
 
 
 **Vjezbe**
