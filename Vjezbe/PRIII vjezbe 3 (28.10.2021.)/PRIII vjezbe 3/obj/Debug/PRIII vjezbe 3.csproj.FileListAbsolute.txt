@@ -1,0 +1,10 @@
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\bin\Debug\PRIII vjezbe 3.exe.config
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\bin\Debug\PRIII vjezbe 3.exe
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\bin\Debug\PRIII vjezbe 3.pdb
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\obj\Debug\PRIII vjezbe 3.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\obj\Debug\PRIII_vjezbe_3.frmCalculator.resources
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\obj\Debug\PRIII_vjezbe_3.Properties.Resources.resources
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\obj\Debug\PRIII vjezbe 3.csproj.GenerateResource.cache
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\obj\Debug\PRIII vjezbe 3.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\obj\Debug\PRIII vjezbe 3.exe
+C:\Users\haris\Desktop\PRIII vjezbe 3\PRIII vjezbe 3\obj\Debug\PRIII vjezbe 3.pdb
