@@ -44,5 +44,5 @@
 
 [Vjezbe 2 Mohamed El-Zayat (21.10.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Vjezbe%202%20(21.12.2021.))
 
-[Vjezbe 3 Mohamed El-Zayat (28.10.2021.)]()
+[Vjezbe 3 Mohamed El-Zayat (28.10.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Vjezbe%203%20(28.10.2021.))
 <hr>
