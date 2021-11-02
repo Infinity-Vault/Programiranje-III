@@ -193,6 +193,7 @@ namespace PRIII_vjezbe_3
         {
             if (txtBoxResult.Text != "" && Double.Parse(txtBoxResult.Text) != 0)
             { 
+                //Svaki put se pomnozi sa (-1) pa tako dobijamo pozitivne i negativne;
                 txtBoxResult.Text = (Double.Parse(txtBoxResult.Text) * (-1)).ToString();
             }
         }
