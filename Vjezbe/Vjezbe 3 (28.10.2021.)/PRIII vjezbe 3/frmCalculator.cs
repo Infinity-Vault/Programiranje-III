@@ -87,12 +87,12 @@ namespace PRIII_vjezbe_3
                     }
                     case '-':
                     {
-                        if(txtBoxResult.Text!="")//Provjera radi brisanja sa CE;
-                           txtBoxResult.Text = (Math.Abs(_prviBroj - Double.Parse(txtBoxResult.Text))).ToString();
+                      if(txtBoxResult.Text!="")//Provjera radi brisanja sa CE;
+                           txtBoxResult.Text = (_prviBroj - Double.Parse(txtBoxResult.Text)).ToString();
                         else//Slucaj da je prvi broj obrisan;
                         {
                             txtBoxResult.Text = "0";//Jedinicni element za ovu operaciju;
-                            txtBoxResult.Text = (Math.Abs(_prviBroj - Double.Parse(txtBoxResult.Text))).ToString();
+                            txtBoxResult.Text = (_prviBroj - Double.Parse(txtBoxResult.Text)).ToString();
                         }
                         break;
                     }
@@ -157,6 +157,14 @@ namespace PRIII_vjezbe_3
             {
                 _prviBroj = 0; //Ako nema operacije (ako nije odabrana) radi se o prvom operandu pa stoga njega resetujemo;
                 txtBoxResult.Clear(); //pobrisemo output unosa;
+            }
+        }
+          //Metoda koja regulise predznak:
+        private void btnPredznak_Click(object sender, EventArgs e)
+        {
+            if (txtBoxResult.Text != "" && Double.Parse(txtBoxResult.Text) != 0)
+            { 
+                txtBoxResult.Text = (Double.Parse(txtBoxResult.Text) * (-1)).ToString();
             }
         }
     }
