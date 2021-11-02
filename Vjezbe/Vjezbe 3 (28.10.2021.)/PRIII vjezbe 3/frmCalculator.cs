@@ -10,12 +10,24 @@ namespace PRIII_vjezbe_3
             InitializeComponent();
         }
 
+        public enum Operacija
+        {
+            None,
+            Addition,
+            Subtraction,
+            Multiplication,
+            Division
+        }
+
         //Atributi:
-        private string _error="Ne moze se dijeliti sa NULOM !";//U slucaju djeljenja sa 0;
+        private string Error="Ne moze se dijeliti sa NULOM !";//U slucaju djeljenja sa 0; //this is a field
+       //private string ERrror {get;set;} ="Ne moze se dijeliti sa NULOM !"; //Property
+       //private readonly string _something = "Nesto !";//field but readonly se samo ovako imenuju;
+
         private string _odabranaOperacija = "nema";//Dflt je nema u slucaju kod provjere da nije unesena nikakva operacija;
         private char _operacija;//Char za operaciju '+,-,*,/,%;
         private double _prviBroj = 0.0f;//Dlft je nula iako je vec to defaultna vrijednost;
-
+        private Operacija TrenutnoOperacija {get; set; }
         //Metoda koja ce se pobrinuti za unos svakog kliknutog broja:
         private void ButtonHandler(object sender, EventArgs e)
         {
@@ -70,6 +82,23 @@ namespace PRIII_vjezbe_3
         //Metoda za  jednako:
         private void btnEqual_Click(object sender, EventArgs e)
         {
+            //Moze se uraditi i preko enumeracija switch;
+           // switch (TrenutnoOperacija)
+           // {
+           //     case Operacija.None:
+           //         break;
+           //     case Operacija.Addition:
+           //         break;
+           //     case Operacija.Subtraction:
+           //         break;
+           //     case Operacija.Multiplication:
+           //         break;
+           //     case Operacija.Division:
+           //         break;
+           //     default:
+           //         throw new ArgumentOutOfRangeException();
+           // }
+
             if (_odabranaOperacija != "nema")
             {
                 switch (_operacija)
@@ -87,7 +116,7 @@ namespace PRIII_vjezbe_3
                     }
                     case '-':
                     {
-                      if(txtBoxResult.Text!="")//Provjera radi brisanja sa CE;
+                        if(txtBoxResult.Text!="")//Provjera radi brisanja sa CE;
                            txtBoxResult.Text = (_prviBroj - Double.Parse(txtBoxResult.Text)).ToString();
                         else//Slucaj da je prvi broj obrisan;
                         {
@@ -112,7 +141,7 @@ namespace PRIII_vjezbe_3
                         if (txtBoxResult.Text != "")//Provjera radi brisanja sa CE;
                         {
                             if (Double.Parse(txtBoxResult.Text) == 0)//Nema djeljenja sa nulom;
-                                MessageBox.Show(_error, "Doslo je do greske", MessageBoxButtons.OK,
+                                MessageBox.Show(Error, "Doslo je do greske", MessageBoxButtons.OK,
                                     MessageBoxIcon.Error);
                             else 
                                 txtBoxResult.Text = (_prviBroj / Double.Parse(txtBoxResult.Text)).ToString();
@@ -159,7 +188,7 @@ namespace PRIII_vjezbe_3
                 txtBoxResult.Clear(); //pobrisemo output unosa;
             }
         }
-          //Metoda koja regulise predznak:
+        //Metoda koja regulise predznak:
         private void btnPredznak_Click(object sender, EventArgs e)
         {
             if (txtBoxResult.Text != "" && Double.Parse(txtBoxResult.Text) != 0)

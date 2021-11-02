@@ -49,6 +49,7 @@ namespace PRIII_vjezbe_3
             this.btnZero = new System.Windows.Forms.Button();
             this.btnDecimalPoint = new System.Windows.Forms.Button();
             this.btnEqual = new System.Windows.Forms.Button();
+            this.btnPredznak = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtBoxResult
@@ -361,9 +362,9 @@ namespace PRIII_vjezbe_3
             this.btnZero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnZero.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.btnZero.ForeColor = System.Drawing.Color.White;
-            this.btnZero.Location = new System.Drawing.Point(12, 404);
+            this.btnZero.Location = new System.Drawing.Point(113, 404);
             this.btnZero.Name = "btnZero";
-            this.btnZero.Size = new System.Drawing.Size(196, 81);
+            this.btnZero.Size = new System.Drawing.Size(95, 81);
             this.btnZero.TabIndex = 17;
             this.btnZero.Text = "0";
             this.btnZero.UseVisualStyleBackColor = false;
@@ -404,12 +405,31 @@ namespace PRIII_vjezbe_3
             this.btnEqual.UseVisualStyleBackColor = false;
             this.btnEqual.Click += new System.EventHandler(this.btnEqual_Click);
             // 
+            // btnPredznak
+            // 
+            this.btnPredznak.BackColor = System.Drawing.Color.Black;
+            this.btnPredznak.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnPredznak.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnPredznak.FlatAppearance.BorderSize = 0;
+            this.btnPredznak.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnPredznak.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPredznak.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.btnPredznak.ForeColor = System.Drawing.Color.White;
+            this.btnPredznak.Location = new System.Drawing.Point(12, 404);
+            this.btnPredznak.Name = "btnPredznak";
+            this.btnPredznak.Size = new System.Drawing.Size(95, 81);
+            this.btnPredznak.TabIndex = 20;
+            this.btnPredznak.Text = "+/-";
+            this.btnPredznak.UseVisualStyleBackColor = false;
+            this.btnPredznak.Click += new System.EventHandler(this.btnPredznak_Click);
+            // 
             // frmCalculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(420, 490);
+            this.Controls.Add(this.btnPredznak);
             this.Controls.Add(this.btnEqual);
             this.Controls.Add(this.btnDecimalPoint);
             this.Controls.Add(this.btnZero);
@@ -459,6 +479,7 @@ namespace PRIII_vjezbe_3
         private System.Windows.Forms.Button btnZero;
         private System.Windows.Forms.Button btnDecimalPoint;
         private System.Windows.Forms.Button btnEqual;
+        private System.Windows.Forms.Button btnPredznak;
     }
 }
 
