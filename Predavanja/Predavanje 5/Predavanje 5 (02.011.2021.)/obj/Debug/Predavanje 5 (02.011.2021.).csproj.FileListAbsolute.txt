@@ -1,0 +1,11 @@
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\bin\Debug\Predavanje 5 (02.011.2021.).exe.config
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\bin\Debug\Predavanje 5 (02.011.2021.).exe
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\bin\Debug\Predavanje 5 (02.011.2021.).pdb
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje 5 (02.011.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje_5__02._011._2021._.frmLogin.resources
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje_5__02._011._2021._.Properties.Resources.resources
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje 5 (02.011.2021.).csproj.GenerateResource.cache
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje 5 (02.011.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje 5 (02.011.2021.).exe
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje 5 (02.011.2021.).pdb
+C:\Users\haris\Desktop\Predavanje 5\Predavanje 5 (02.011.2021.)\obj\Debug\Predavanje_5__02._011._2021._.frmRegistracija.resources
