@@ -1,0 +1,6 @@
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Helpers\bin\Debug\StudentService.Helpers.dll
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Helpers\bin\Debug\StudentService.Helpers.pdb
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Helpers\obj\Debug\StudentService.Helpers.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Helpers\obj\Debug\StudentService.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Helpers\obj\Debug\StudentService.Helpers.dll
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Helpers\obj\Debug\StudentService.Helpers.pdb

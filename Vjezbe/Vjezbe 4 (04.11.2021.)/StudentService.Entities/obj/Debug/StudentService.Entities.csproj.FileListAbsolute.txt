@@ -1,0 +1,6 @@
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Entities\bin\Debug\StudentService.Entities.dll
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Entities\bin\Debug\StudentService.Entities.pdb
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Entities\obj\Debug\StudentService.Entities.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Entities\obj\Debug\StudentService.Entities.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Entities\obj\Debug\StudentService.Entities.dll
+C:\Users\haris\Desktop\Vjezbe 4 (04.11.2021.)\StudentService.Entities\obj\Debug\StudentService.Entities.pdb
