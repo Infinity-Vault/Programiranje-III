@@ -41,6 +41,7 @@ namespace StudentService
                 InMemoryDataBase.ProfessorRepo.Insert(profesor);//Dodamo profesora u bazu;
                 InMemoryDataBase.PredmetRepo.Insert(predmet);//Dodamo predmet u bazu predmeta;
                 MessageBox.Show($"{profesor.ImePrezime} je registrovan uspjesno!");//Obavijestimo korisnika;
+                this.Close();
             }
         }
         //Metoda za validaciju predmeta:
