@@ -17,6 +17,11 @@ namespace StudentService.Helpers
         //Validacija number polja:
         public static bool ValidateNumberField(Control kontrola, ErrorProvider err, string infoError)
         {
+            if (string.IsNullOrEmpty(kontrola.Text))
+            {
+                err.SetError(kontrola, Poruke.OvoPoljeJeObavezno);//Postavimo gresku da je polje obavezno ukoliko je prazno;
+                return false;//onda nije validno;
+            }
             if (int.Parse(kontrola.Text) == 0)
             {
                 err.SetError(kontrola, infoError);//postavi error sa info o tom specific error na tu kontrolu koja je triggerovala;
