@@ -1,0 +1,10 @@
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\bin\Debug\Predavanje6.exe.config
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\bin\Debug\Predavanje6.exe
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\bin\Debug\Predavanje6.pdb
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\obj\Debug\Predavanje6.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\obj\Debug\Predavanje6.FrmEvents.resources
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\obj\Debug\Predavanje6.Properties.Resources.resources
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\obj\Debug\Predavanje6.csproj.GenerateResource.cache
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\obj\Debug\Predavanje6.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\obj\Debug\Predavanje6.exe
+C:\Users\haris\Desktop\Predavanje 6 (09.11.2021.)\Predavanje6\obj\Debug\Predavanje6.pdb
