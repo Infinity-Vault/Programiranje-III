@@ -1,0 +1,11 @@
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\bin\Debug\Predavanje7.exe.config
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\bin\Debug\Predavanje7.exe
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\bin\Debug\Predavanje7.pdb
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.frmStudenti.resources
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.Properties.Resources.resources
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.csproj.GenerateResource.cache
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.exe
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.pdb
+C:\Users\haris\Desktop\Predavanje7 (16.11.2021.)\Predavanje7\obj\Debug\Predavanje7.frmDodajStudenta.resources
