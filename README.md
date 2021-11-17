@@ -33,7 +33,7 @@
 
 [Predavanje 6 (09.11.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%206)
 
-[Predavanje 7 (16.11.2021.) Denis Music]()
+[Predavanje 7 (16.11.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%207)
 
 **Vjezbe**
 
