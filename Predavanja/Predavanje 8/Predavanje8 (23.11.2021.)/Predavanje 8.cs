@@ -105,6 +105,11 @@ namespace Predavanje8__23._11._2021._
             txtBoxPrikaz.Text += ime.Enkripcija() + Environment.NewLine;//Sa promjenom;
 
             txtBoxPrikaz.Text +=DateTime.Now.ToBosnianTime() + Environment.NewLine;//Primjer ekstenzije za DateTime tip;
+            
+            //NOTE:
+            //Metode ekstenzije su primjenjive samo i samo na instancama objekata!;
+            
+           //string.Enkripcija();//Ovo ne moze jer nije instanca (objekat);
         }
         //Metoda koja ce objasniti anonimne varijable i njihovu ulogu:
         private void AnonimneVarijable()
