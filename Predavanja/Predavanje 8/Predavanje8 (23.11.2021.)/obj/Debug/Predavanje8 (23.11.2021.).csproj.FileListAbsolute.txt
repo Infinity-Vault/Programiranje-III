@@ -1,0 +1,10 @@
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\bin\Debug\Predavanje8 (23.11.2021.).exe.config
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\bin\Debug\Predavanje8 (23.11.2021.).exe
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\bin\Debug\Predavanje8 (23.11.2021.).pdb
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\obj\Debug\Predavanje8 (23.11.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\obj\Debug\Predavanje8__23._11._2021._.frmPredavanje8.resources
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\obj\Debug\Predavanje8__23._11._2021._.Properties.Resources.resources
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\obj\Debug\Predavanje8 (23.11.2021.).csproj.GenerateResource.cache
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\obj\Debug\Predavanje8 (23.11.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\obj\Debug\Predavanje8 (23.11.2021.).exe
+C:\Users\haris\Desktop\Predavanje8 (23.11.2021.)\Predavanje8 (23.11.2021.)\obj\Debug\Predavanje8 (23.11.2021.).pdb
