@@ -59,6 +59,6 @@
 
 [Vjezbe 8 Mohamed El-Zayat (24.11.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Vjezbe%208%20(24.11.2021.))
 
-[Vjezbe 9 Mohamed El-Zayat (09.12.2021.)]()
+[Vjezbe 9 Mohamed El-Zayat (09.12.2021.)](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Vjezbe/Vjezbe%209)
 
 <hr>
