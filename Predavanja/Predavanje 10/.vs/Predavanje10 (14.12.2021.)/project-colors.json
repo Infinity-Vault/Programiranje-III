@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a12843cb-29c6-4e02-b056-3c33b190fe3c": {
+      "ProjectGuid": "a12843cb-29c6-4e02-b056-3c33b190fe3c",
+      "DisplayName": "Predavanje10 (14.12.2021.)",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
