@@ -41,7 +41,7 @@
 
 [Predavanje 10 (14.12.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%2010)
 
-[Predavanje 11 (21.12.2021.) Denis Music]()
+[Predavanje 11 (21.12.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%2011)
 
 **Vjezbe**
 
