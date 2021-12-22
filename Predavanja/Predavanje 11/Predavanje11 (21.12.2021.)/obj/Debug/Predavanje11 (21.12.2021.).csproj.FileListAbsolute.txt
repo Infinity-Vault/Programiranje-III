@@ -1,0 +1,22 @@
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\DLWMS.db
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\Predavanje10 (14.12.2021.).exe.config
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\Predavanje10 (14.12.2021.).exe
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\Predavanje10 (14.12.2021.).pdb
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\EntityFramework.dll
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\System.Data.SQLite.dll
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\EntityFramework.xml
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\bin\Debug\System.Data.SQLite.xml
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje11 (21.12.2021.).csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje11 (21.12.2021.).csproj.SuggestedBindingRedirects.cache
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Forme.frmKandidati.resources
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Forme.frmStudenti.resources
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje10__14._12._2021._.Properties.Resources.resources
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje11 (21.12.2021.).csproj.GenerateResource.cache
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje11 (21.12.2021.).csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje11 (21.12.2021.).csproj.CopyComplete
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje10 (14.12.2021.).exe
+C:\Users\haris\Desktop\Predavanje11 (21.12.2021.)\Predavanje10 (14.12.2021.)\obj\Debug\Predavanje10 (14.12.2021.).pdb
