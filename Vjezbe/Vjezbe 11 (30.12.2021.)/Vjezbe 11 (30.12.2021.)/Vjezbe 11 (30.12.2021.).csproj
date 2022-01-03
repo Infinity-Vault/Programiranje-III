@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{949F1E51-9D4E-459D-B42E-2B9A5FB2F82E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Vjezbe_11__30._12._2021._</RootNamespace>
+    <AssemblyName>Vjezbe 11 %2830.12.2021.%29</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Vjezbe11.CSVFajl\Vjezbe11.CSVFajl.csproj">
+      <Project>{46e9aee2-d30b-4d63-b44b-e72ac3ac9ee5}</Project>
+      <Name>Vjezbe11.CSVFajl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Vjezbe11.KeyValue\Vjezbe11.KeyValue.csproj">
+      <Project>{639ff693-d3f7-4f5a-a5fb-950349a3da56}</Project>
+      <Name>Vjezbe11.KeyValue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Vjezbe11.ManipulacijeKursorom\Vjezbe11.ManipulacijeKursorom.csproj">
+      <Project>{4e26bd7f-5629-4f14-9ca5-e1914e33ddd8}</Project>
+      <Name>Vjezbe11.ManipulacijeKursorom</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Vjezbe11.Student\Vjezbe11.Student.csproj">
+      <Project>{eb097461-0985-4d9c-a665-d3c2469b553b}</Project>
+      <Name>Vjezbe11.Student</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Vjezbe11.UpisIspis\Vjezbe11.UpisIspis.csproj">
+      <Project>{03c4a6f2-a9de-4362-a1b5-39a4b020e479}</Project>
+      <Name>Vjezbe11.UpisIspis</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

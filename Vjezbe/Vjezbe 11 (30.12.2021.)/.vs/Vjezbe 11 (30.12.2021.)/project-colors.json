@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "949f1e51-9d4e-459d-b42e-2b9a5fb2f82e": {
+      "ProjectGuid": "949f1e51-9d4e-459d-b42e-2b9a5fb2f82e",
+      "DisplayName": "Vjezbe 11 (30.12.2021.)",
+      "ColorIndex": 0
+    },
+    "03c4a6f2-a9de-4362-a1b5-39a4b020e479": {
+      "ProjectGuid": "03c4a6f2-a9de-4362-a1b5-39a4b020e479",
+      "DisplayName": "Vjezbe11.UpisIspis",
+      "ColorIndex": 1
+    },
+    "eb097461-0985-4d9c-a665-d3c2469b553b": {
+      "ProjectGuid": "eb097461-0985-4d9c-a665-d3c2469b553b",
+      "DisplayName": "Vjezbe11.Student",
+      "ColorIndex": 2
+    },
+    "639ff693-d3f7-4f5a-a5fb-950349a3da56": {
+      "ProjectGuid": "639ff693-d3f7-4f5a-a5fb-950349a3da56",
+      "DisplayName": "Vjezbe11.KeyValue",
+      "ColorIndex": 3
+    },
+    "46e9aee2-d30b-4d63-b44b-e72ac3ac9ee5": {
+      "ProjectGuid": "46e9aee2-d30b-4d63-b44b-e72ac3ac9ee5",
+      "DisplayName": "Vjezbe11.CSVFajl",
+      "ColorIndex": 4
+    },
+    "4e26bd7f-5629-4f14-9ca5-e1914e33ddd8": {
+      "ProjectGuid": "4e26bd7f-5629-4f14-9ca5-e1914e33ddd8",
+      "DisplayName": "Vjezbe11.ManipulacijeKursorom",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
