@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6F1EFF2-11C4-4C9E-9E8C-A4058C09531B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DLWMS.ConsoleApp</RootNamespace>
+    <AssemblyName>DLWMS.ConsoleApp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helper\Encoder.cs" />
+    <Compile Include="Predavanja\P1\MainP1.cs" />
+    <Compile Include="Predavanja\P2\Asistent.cs" />
+    <Compile Include="Predavanja\P2\MainP2.cs" />
+    <Compile Include="Predavanja\P2\Profesor.cs" />
+    <Compile Include="Predavanja\P3\Loggers\APILogger.cs" />
+    <Compile Include="Predavanja\P3\Helper\DataExtractor.cs" />
+    <Compile Include="Predavanja\P3\Loggers\DBLogger.cs" />
+    <Compile Include="Predavanja\P3\Loggers\FileLogger.cs" />
+    <Compile Include="Predavanja\P3\Interface\IKorisnik.cs" />
+    <Compile Include="Predavanja\P3\Interface\ILogger.cs" />
+    <Compile Include="Predavanja\P3\Interface\IRepository.cs" />
+    <Compile Include="Predavanja\P3\Interface\IStudent.cs" />
+    <Compile Include="Predavanja\P3\Models\Korisnik.cs" />
+    <Compile Include="Predavanja\P3\Repository\KorisnikRepository.cs" />
+    <Compile Include="Predavanja\P3\MainP3.cs" />
+    <Compile Include="Predavanja\P3\Models\Osoba.cs" />
+    <Compile Include="Predavanja\P3\Helper\Poruke.cs" />
+    <Compile Include="Predavanja\P3\Repository\Repository.cs" />
+    <Compile Include="Predavanja\P3\Models\Student.cs" />
+    <Compile Include="Predavanja\P3\Repository\StudentRepository.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DLWMS.Data\DLWMS.Data.csproj">
+      <Project>{b24c13dd-71c0-48e6-9682-01a8e85b4702}</Project>
+      <Name>DLWMS.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
