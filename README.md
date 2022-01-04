@@ -45,7 +45,7 @@
 
 [Predavanje 12 (28.12.2021.) Denis Music]()
 
-[Predavanje 13 (04.01.2022.) Denis Music]()
+[Predavanje 13 (04.01.2022.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%2013)
 
 **Vjezbe**
 
