@@ -1,0 +1,11 @@
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\bin\Debug\Predavanje 14 (11.01.2022.).exe.config
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\bin\Debug\Predavanje 14 (11.01.2022.).exe
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\bin\Debug\Predavanje 14 (11.01.2022.).pdb
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje 14 (11.01.2022.).csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje 14 (11.01.2022.).csproj.SuggestedBindingRedirects.cache
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje_14__11._01._2022._.MT.resources
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje_14__11._01._2022._.Properties.Resources.resources
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje 14 (11.01.2022.).csproj.GenerateResource.cache
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje 14 (11.01.2022.).csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje 14 (11.01.2022.).exe
+C:\Users\haris\Desktop\Predavanje 14 (11.01.2022.)\Predavanje 14 (11.01.2022.)\obj\Debug\Predavanje 14 (11.01.2022.).pdb
