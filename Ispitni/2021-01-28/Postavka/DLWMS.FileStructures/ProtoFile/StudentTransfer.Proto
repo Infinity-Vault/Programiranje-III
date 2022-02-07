@@ -1,0 +1,4 @@
+message StudentDataTransfer{
+	int index = 1;
+	string name = 2;
+}
