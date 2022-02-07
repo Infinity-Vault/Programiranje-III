@@ -118,20 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>git add: Kada kreiramo, modificiramo ili izbrisemo fajl, te promjene su se desile lokalno, i nece biti ukljucene u nas naredni commit, komandom git add ukljucujemo sve promjene koje su se desile nad nasim fajlom na nas naredni commit
+    <value>git add: Kada kreiramo, modificiramo ili izbrisemo fajl, te promjene su se desile lokalno, i nece biti ukljucene u nas naredni commit, komandom git add ukljucujemo sve promjene koje su se desile nad nasim fajlom na nas naredni stage file
 
 git commit: koristimo kada zelimo da spasimo neke promjene, takodje mozemo ispisati i odgovarajucu poruku da bi drugi korisnici znali kakva se promjena desila
 
 git push: nakon sto sacuvamo nase promjene, slijedeca stvar jeste da ih posaljemo na server, git push vrsi upload naseg commit-a na repostorij
 
-git pull: je komanda koja se koristi za update repostorija
+git pull: je komanda koja se koristi za update lokalnih fajlova
 
-git branch: Koristeci komandu branch omoguceno je da nekoliko programera rade paralelno na istom projektu istovremeno, naredbu git branch mozemo koristit za kreiranje, listanje i brisanje braches
-</value>
+git branch: Koristeci komandu branch omoguceno je pregled svih postojecih lokalnih grana repostorija</value>
   </data>
   <data name="textBox2.Text" xml:space="preserve">
     <value>Var je staticka varijabla, tip podataka ovih varijabli se zakljucuje u vrijeme kompaliranja. Ovo se radi na osnovu tipa vrijednosti s kojom su ove varijable inicijalizirane
 
-Dynamic je dinamicka varijabla, to znaci da se njihov tip zakljucuje u vremenu izvodjenja, a ne u vremenu kompaliranja za razliku od tipa var</value>
+Dynamic je dinamicka varijabla, to znaci da se njihov tip zakljucuje u vremenu izvodjenja, a ne u vremenu kompaliranja za razliku od tipa var, omogucava pisanje metoda koje trenutno ne postoje, te time ne dobijamo exception sve dok se program ne pokrene, pomocu dynamic mozemo dodavati propery objektima koje u sustini ne postoje, ponovo ne dobijamo exception sve do izvodjenja programa</value>
   </data>
 </root>

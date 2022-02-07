@@ -73,7 +73,7 @@ namespace DLWMS.WinForms.IBBrojIndeksa
             this.textBox2.Location = new System.Drawing.Point(12, 246);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(758, 76);
+            this.textBox2.Size = new System.Drawing.Size(758, 88);
             this.textBox2.TabIndex = 3;
             this.textBox2.Text = resources.GetString("textBox2.Text");
             // 
