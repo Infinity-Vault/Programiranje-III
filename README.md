@@ -103,4 +103,6 @@
 
 [Ispitni 27.01.2022. Grupa 1](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2022_01_27_G1)
 
+[Ispitni 27.01.2022. Grupa 2](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2022_01_27_G2)
+
 <hr>
