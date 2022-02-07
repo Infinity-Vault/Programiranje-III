@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPredmeti" targetNamespace="http://tempuri.org/dsPredmeti.xsd" xmlns:mstns="http://tempuri.org/dsPredmeti.xsd" xmlns="http://tempuri.org/dsPredmeti.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPredmeti" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPredmeti" msprop:Generator_UserDSName="dsPredmeti">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Predmeti" msprop:Generator_TableClassName="PredmetiDataTable" msprop:Generator_TableVarName="tablePredmeti" msprop:Generator_TablePropName="Predmeti" msprop:Generator_RowDeletingName="PredmetiRowDeleting" msprop:Generator_RowChangingName="PredmetiRowChanging" msprop:Generator_RowEvHandlerName="PredmetiRowChangeEventHandler" msprop:Generator_RowDeletedName="PredmetiRowDeleted" msprop:Generator_UserTableName="Predmeti" msprop:Generator_RowChangedName="PredmetiRowChanged" msprop:Generator_RowEvArgName="PredmetiRowChangeEvent" msprop:Generator_RowClassName="PredmetiRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Student" msprop:Generator_ColumnVarNameInTable="columnStudent" msprop:Generator_ColumnPropNameInRow="Student" msprop:Generator_ColumnPropNameInTable="StudentColumn" msprop:Generator_UserColumnName="Student" type="xs:string" minOccurs="0" />
+              <xs:element name="Predmet" msprop:Generator_ColumnVarNameInTable="columnPredmet" msprop:Generator_ColumnPropNameInRow="Predmet" msprop:Generator_ColumnPropNameInTable="PredmetColumn" msprop:Generator_UserColumnName="Predmet" type="xs:string" minOccurs="0" />
+              <xs:element name="Datum" msprop:Generator_ColumnVarNameInTable="columnDatum" msprop:Generator_ColumnPropNameInRow="Datum" msprop:Generator_ColumnPropNameInTable="DatumColumn" msprop:Generator_UserColumnName="Datum" type="xs:string" minOccurs="0" />
+              <xs:element name="Ocjena" msprop:Generator_ColumnVarNameInTable="columnOcjena" msprop:Generator_ColumnPropNameInRow="Ocjena" msprop:Generator_ColumnPropNameInTable="OcjenaColumn" msprop:Generator_UserColumnName="Ocjena" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
