@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30524.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLWMS.WinForms", "DLWMS.WinForms\DLWMS.WinForms.csproj", "{695C4FFF-08C2-4B48-B519-B49C740A1353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLWMS.FileStructures", "DLWMS.FileStructures\DLWMS.FileStructures.csproj", "{1B3C8B82-4D3A-4846-A7F3-19959E335BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695C4FFF-08C2-4B48-B519-B49C740A1353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695C4FFF-08C2-4B48-B519-B49C740A1353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695C4FFF-08C2-4B48-B519-B49C740A1353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695C4FFF-08C2-4B48-B519-B49C740A1353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5539908A-2D57-4ACE-8E00-8D10BD9589EB}.Debug|Any CPU.ActiveCfg = Debug
+		{5539908A-2D57-4ACE-8E00-8D10BD9589EB}.Release|Any CPU.ActiveCfg = Release
+		{1B3C8B82-4D3A-4846-A7F3-19959E335BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3C8B82-4D3A-4846-A7F3-19959E335BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3C8B82-4D3A-4846-A7F3-19959E335BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3C8B82-4D3A-4846-A7F3-19959E335BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4E5CAD-618E-4D47-84B6-246383C5876F}
+	EndGlobalSection
+EndGlobal
