@@ -24,7 +24,10 @@
 [Garbage collection MSDN doc](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
 <br>
 
+<hr>
+
 **Predavanja:**
+<hr>
 
 [Predavanje 1 (05.10.2021.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%201)
 
@@ -55,9 +58,10 @@
 
 [Predavanje 14 (11.01.2022.) Denis Music](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Predavanja/Predavanje%2014)
 
+<hr>
 
 **Vjezbe**
-
+<hr>
 
 [Primjer alociranja memorije na HEAP vs na STACK](https://github.com/Infinity-Vault/Programiranje-III/blob/main/Vjezbe/Primjer%20alociranja%20na%20HEAP%20i%20na%20STACK.png)
 
