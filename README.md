@@ -4,9 +4,11 @@
 **Repozitorij za zadatke i kodove iz PR-III**
 
 
-<hr>
+
 
 **Materijali:**
+
+<hr>
 
 [Snimljena predavanja (Denis Musić) NPP::2020/21](https://www.youtube.com/watch?v=tnpxdGQKKF0&list=PLJCjqoTZy0H-ELJL4GxKjSKCy8cp2xNNh)
 
