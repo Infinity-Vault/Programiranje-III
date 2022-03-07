@@ -97,7 +97,7 @@
 
 [Ispitni 31.08.2021.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2021-08-31/Postavka)
 
-[Ispitni 18.02.2021.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2021-02-18/Postavka)
+[Ispitni 18.02.2021.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2021-02-18)
 
 [Ispitni 28.01.2021.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2021-01-28)
 
