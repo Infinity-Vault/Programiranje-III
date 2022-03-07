@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsTest" targetNamespace="http://tempuri.org/dsTest.xsd" xmlns:mstns="http://tempuri.org/dsTest.xsd" xmlns="http://tempuri.org/dsTest.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsTest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="dsTest" msprop:Generator_DataSetName="dsTest">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Test" msprop:Generator_RowEvHandlerName="TestRowChangeEventHandler" msprop:Generator_RowDeletedName="TestRowDeleted" msprop:Generator_RowDeletingName="TestRowDeleting" msprop:Generator_RowEvArgName="TestRowChangeEvent" msprop:Generator_TablePropName="Test" msprop:Generator_RowChangedName="TestRowChanged" msprop:Generator_RowChangingName="TestRowChanging" msprop:Generator_TableClassName="TestDataTable" msprop:Generator_RowClassName="TestRow" msprop:Generator_TableVarName="tableTest" msprop:Generator_UserTableName="Test">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Rb" msprop:Generator_ColumnPropNameInRow="Rb" msprop:Generator_ColumnPropNameInTable="RbColumn" msprop:Generator_ColumnVarNameInTable="columnRb" msprop:Generator_UserColumnName="Rb" type="xs:string" minOccurs="0" />
+              <xs:element name="Student" msprop:Generator_ColumnPropNameInRow="Student" msprop:Generator_ColumnPropNameInTable="StudentColumn" msprop:Generator_ColumnVarNameInTable="columnStudent" msprop:Generator_UserColumnName="Student" type="xs:string" minOccurs="0" />
+              <xs:element name="Datum" msprop:Generator_ColumnPropNameInRow="Datum" msprop:Generator_ColumnPropNameInTable="DatumColumn" msprop:Generator_ColumnVarNameInTable="columnDatum" msprop:Generator_UserColumnName="Datum" type="xs:string" minOccurs="0" />
+              <xs:element name="Rezultat" msprop:Generator_ColumnPropNameInRow="Rezultat" msprop:Generator_ColumnPropNameInTable="RezultatColumn" msprop:Generator_ColumnVarNameInTable="columnRezultat" msprop:Generator_UserColumnName="Rezultat" type="xs:string" minOccurs="0" />
+              <xs:element name="NalazDostavljen" msprop:Generator_ColumnPropNameInRow="NalazDostavljen" msprop:Generator_ColumnPropNameInTable="NalazDostavljenColumn" msprop:Generator_ColumnVarNameInTable="columnNalazDostavljen" msprop:Generator_UserColumnName="NalazDostavljen" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
