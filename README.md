@@ -103,7 +103,7 @@
 
 [Ispitni 04.09.2020.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2020-09-04)
 
-[Ispitni 09.07.2020.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2020-07-09/Postavka)
+[Ispitni 09.07.2020.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2020-07-09)
 
 [Ispitni 18.02.2020.](https://github.com/Infinity-Vault/Programiranje-III/tree/main/Ispitni/2020-02-18/Postavka)
 
