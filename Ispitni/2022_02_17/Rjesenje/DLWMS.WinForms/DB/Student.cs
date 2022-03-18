@@ -30,7 +30,6 @@ namespace DLWMS.WinForms
         public string ImePrezime { get; set; }
         [NotMapped]
         public float Prosjek { get; set; }
-
         public void ProsjecnaOcjena()
         {
             float prosjek = 0.0f;

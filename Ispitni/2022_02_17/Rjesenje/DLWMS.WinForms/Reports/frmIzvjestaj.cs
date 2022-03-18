@@ -30,7 +30,7 @@ namespace DLWMS.WinForms.Reports
         private void frmIzvjestaj_Load(object sender, EventArgs e)
         {
             var rpc = new ReportParameterCollection();
-            var rds = new ReportDataSource();
+            var rds = new ReportDataSource();//Koristimo za dodavanje jednog ili vise potrebnih izvora podataka u lokalni izvjestaj
 
             var brojKonsultacija = $"Ukupno evidentirano {listaKonsultacija.Count} zahtjeva za konsultacijama";
             rpc.Add(new ReportParameter("rptUkupno",brojKonsultacija));

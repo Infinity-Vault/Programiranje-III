@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DLWMS.WinForms.DB;
+using DLWMS.WinForms.P5;
 
 namespace DLWMS.WinForms.IBBrojIndeksa
 {
@@ -28,17 +29,22 @@ namespace DLWMS.WinForms.IBBrojIndeksa
 
         private void btnOdustani_Click(object sender, EventArgs e)
         {
+            //Kada kliknemo button Odustani zatvara se forma NoviZahtjev i vraca nas na staru formu Konsultacije
            this.Close();
             Show();
         }
 
         private void frmNoviZahtjev_Load(object sender, EventArgs e)
         {
-            cmbPredmet.DataSource = _db.Predmeti.ToList();
+            cmbPredmet.DataSource = _db.Predmeti.ToList();//U cmbPremdet ucitavamo nase predmete koje vec imamo u bazi
         }
 
         private void btnSacuvaj_Click(object sender, EventArgs e)
         {
+            if (!Validator.ValidirajKontrolu(txtNapomena,errorProvider1,"Morate unijeti napomenu"))
+            {
+                return;
+            }
             var konsultacija = new StudentiKonsultacije()
             {
                 Student = _student,
@@ -46,11 +52,11 @@ namespace DLWMS.WinForms.IBBrojIndeksa
                 Napomena = txtNapomena.Text,
                 VrijemeOdrzavanja = dtpDatumVrijeme.Value,
             };
-            _db.StudentiKonsultacije.Add(konsultacija);
-            _db.SaveChanges();
+            _db.StudentiKonsultacije.Add(konsultacija);//u bazu nasu dodajemo novu konsultaciju
+            _db.SaveChanges();//sacuvamo podatke
 
-            MessageBox.Show("Uspjesno");
-            Close();
+            MessageBox.Show("Uspjesno");//poruka da su podaci uspjesno sacuvani
+            Close();//zatvara se forma i vraca nas na formu konusltacije
 
 
         }
