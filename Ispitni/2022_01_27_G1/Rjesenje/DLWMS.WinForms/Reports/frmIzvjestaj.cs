@@ -14,25 +14,27 @@ namespace DLWMS.WinForms.Reports
 {
     public partial class frmIzvjestaj : Form
     {
-        private List<StudentiPredmeti> listaP = new List<StudentiPredmeti>();
+        private dtoIzvjestaj dtoIzvjestaj;
+
         public frmIzvjestaj()
         {
             InitializeComponent();
         }
-        public frmIzvjestaj(List<StudentiPredmeti>lista)
+
+        public frmIzvjestaj(dtoIzvjestaj dtoIzvjestaj) : this()
         {
-            InitializeComponent();
-            listaP = lista;
+            this.dtoIzvjestaj = dtoIzvjestaj;
         }
+
         private void frmIzvjestaj_Load(object sender, EventArgs e)
         {
             var rpc = new ReportParameterCollection();
             var rds = new ReportDataSource();
-           var prosjecna = $"Prosjecna ocjena: {listaP.Average(o=>o.Ocjena).ToString()}";
+           var prosjecna = $"Prosjecna ocjena: {dtoIzvjestaj.StudentiPredmeti.Average(o=>o.Ocjena).ToString()}";
             rpc.Add(new ReportParameter("prmProsjecna", prosjecna));
             var tblPredmeti = new dsPredmeti.PredmetiDataTable();
 
-            foreach (var sP in listaP)
+            foreach (var sP in dtoIzvjestaj.StudentiPredmeti)
             {
                 var row = tblPredmeti.NewPredmetiRow();
                 row.Student = sP.Student.ToString();

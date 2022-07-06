@@ -85,7 +85,12 @@ namespace DLWMS.WinForms.IBBrojIndeksa
 
         private void btnPrintaj_Click(object sender, EventArgs e)
         {
-            Form izvjeztaj = new frmIzvjestaj(_db.StudentiPredmeti.ToList());
+            dtoIzvjestaj dtoIzvjestaj = new dtoIzvjestaj()
+            {
+                StudentiPredmeti=dgvPredmet.DataSource as List<StudentiPredmeti>
+            };
+
+            Form izvjeztaj = new frmIzvjestaj(dtoIzvjestaj);
             Hide();
             izvjeztaj.ShowDialog();
             Show();
@@ -114,5 +119,9 @@ namespace DLWMS.WinForms.IBBrojIndeksa
             Action akcija =()=>txtSuma.Text = suma.ToString();
             BeginInvoke(akcija);
         }
+    }
+    public class dtoIzvjestaj
+    {
+        public List<StudentiPredmeti> StudentiPredmeti;
     }
 }
