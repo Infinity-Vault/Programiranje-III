@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLWMS.WinForms", "DLWMS.WinForms\DLWMS.WinForms.csproj", "{AE6EF62E-AD50-465D-8822-656D8DDBC70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6EF62E-AD50-465D-8822-656D8DDBC70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6EF62E-AD50-465D-8822-656D8DDBC70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6EF62E-AD50-465D-8822-656D8DDBC70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6EF62E-AD50-465D-8822-656D8DDBC70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {494DBD0B-471E-4F8C-AEE6-B3FEB9BC060C}
+	EndGlobalSection
+EndGlobal
